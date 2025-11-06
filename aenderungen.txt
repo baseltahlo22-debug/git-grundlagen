@@ -1,0 +1,2 @@
+ich habe die Datei befehle.txt erstellt und drei Git befehle mit kurzer erklärung hinzugefügt.
+Anschließend habe ich ich die Datei zur versionsverwaltung hinzugefügt und einen commit durchgeführt.
