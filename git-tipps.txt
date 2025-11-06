@@ -1,0 +1,2 @@
+git checkout -- <Dateiname> dieser befehl setzt Änderungen an einer datei zurück. die noch nicht committet wurden
+git restore <Dateiname> 
